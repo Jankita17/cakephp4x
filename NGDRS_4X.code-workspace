@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"better-comments.highlightPlainText": true,
+		"auto-close-tag.SublimeText3Mode": true,
+		"auto-close-tag.fullMode": true
+	}
+}
